@@ -25,7 +25,7 @@ there 3 basic data type in typescript or in coding :
 // let age = 6 //it is not equal to Age
 
 
-let Name = "Faaiz Bangali";
+let Name = "Faaiz";
 
 
 /* 

@@ -18,7 +18,7 @@ there 3 basic data type in typescript or in coding :
 */
 // let Age  = 3 //it is not equal to age
 // let age = 6 //it is not equal to Age
-var Name = "Faaiz Bangali";
+var Name = "Faaiz";
 /*
     if we want to print somting to check our code in typescript we will use Console.log() command in here like this :
 */
